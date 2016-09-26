@@ -1,2 +1,5 @@
 # hello-world
-Prueba de mi primer repositorio en Git Hub :)
+Prueba de mi  en Git Hub :)
+
+Mateo Rengel Rivera
+Plan B Games!
